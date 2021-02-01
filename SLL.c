@@ -108,7 +108,7 @@ int delete_f(struct linkedlist *l)
    
 int delete_l(struct linkedlist *l)
 {nde p,q;
- q=NULL:
+ q=NULL;
  int y;
  p=l->head;
  if(p==NULL)
